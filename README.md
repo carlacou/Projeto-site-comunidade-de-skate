@@ -101,3 +101,6 @@ Largura máxima do conteúdo principal: `1120px`
 Largura máxima de um cartão desktop: `256px`
 
 Altura mínima de um cartão: `320px`
+
+
+ **Link:https://carlacou.github.io/Projeto-site-comunidade-de-skate/** 
